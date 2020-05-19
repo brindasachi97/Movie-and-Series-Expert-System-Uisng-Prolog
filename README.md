@@ -1,4 +1,4 @@
-# Movie-and-Series-Expert-System-Uisng-Prolog
+# Movie-and-Series-Expert-System-Using-Prolog
 A Movie and Series Expert System Using Prolog. User will be asked to enter his choices and based on that movies and series would be recommended.
 
 # Usage
